@@ -18,8 +18,10 @@ frequency. It should output to the command line in a similar manner to the attac
 You solution should be multithreaded – i.e. the writer and reader class/es should be running on separate threads.
 Your solution should be smart enough to make sure that no data are orphaned in the service (all data are persisted
 to the in memory and are analysed by the report).
+
 No Thread.sleep should be seen in the source code of the solution.
 Solution
+
 Your solution should provide:
 • All of the source code
 • All unit tests
