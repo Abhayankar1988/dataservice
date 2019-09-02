@@ -20,24 +20,6 @@ Your solution should be smart enough to make sure that no data are orphaned in t
 to the in memory and are analysed by the report).
 
 No Thread.sleep should be seen in the source code of the solution.
-Solution
-
-Your solution should provide:
-• All of the source code
-• All unit tests
-• Documentation of any assumptions made
-• Maven should be used for dependency management
-• A zip file containing the working jar and any required libraries
-• Evidence that all components work correctly
-• Output from running your application
-o Every second there should be output showing what has been read in from the file
-o Each time an instrument is persisted in the database
-o The reporting requirements when the program finishes detailed above
-• We should be able to compile and run the application along with any necessary tests
-• An appropriate logging framework should be used
-• The only external libraries used should be Spring, Hibernate (if used), and HSQLDB. If there is a strong use for
-another library this should be explained.
-
 
 #Steps to run the application
 run "mvn spring-boot:run"
