@@ -21,5 +21,8 @@ to the in memory and are analysed by the report).
 
 No Thread.sleep should be seen in the source code of the solution.
 
+#Sample files are under resources location "src\main\resources"
+
+
 #Steps to run the application
 run "mvn spring-boot:run"
