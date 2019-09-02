@@ -1,0 +1,162 @@
+2019-04-22 00:32:47.591  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 1 BT.L:100
+2019-04-22 00:32:47.603  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 1 VOD.L:85
+2019-04-22 00:32:47.607  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 1 BP.L:1450.4
+2019-04-22 00:32:47.610  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 1 GOOG:86.67
+2019-04-22 00:32:48.581  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 2 BT.L:98
+2019-04-22 00:32:48.581  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 2 VOD.L:87
+2019-04-22 00:32:48.584  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 2 BP.L:1460.4
+2019-04-22 00:32:48.588  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 2 GOOG:84.67
+2019-04-22 00:32:49.579  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 3 BT.L:102
+2019-04-22 00:32:49.579  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 3 VOD.L:90
+2019-04-22 00:32:49.591  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 3 BP.L:1455.95
+2019-04-22 00:32:49.695  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 3 BP.L updated
+2019-04-22 00:32:49.695  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 3 GOOG:84
+2019-04-22 00:32:49.709  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 3 GOOG updated
+2019-04-22 00:32:50.581  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 4 BT.L:110.3
+2019-04-22 00:32:50.581  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 4 VOD.L:92.3
+2019-04-22 00:32:50.585  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 4 BP.L:1453
+2019-04-22 00:32:50.589  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 4 GOOG:83.5
+2019-04-22 00:32:51.580  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 5 BT.L:104.5
+2019-04-22 00:32:51.586  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 5 BT.L updated
+2019-04-22 00:32:51.587  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 5 VOD.L:92.4
+2019-04-22 00:32:51.592  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 5 VOD.L updated
+2019-04-22 00:32:51.593  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 5 BP.L:1452
+2019-04-22 00:32:51.594  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 5 GOOG:83.49
+2019-04-22 00:32:52.579  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 6 BT.L:105.9
+2019-04-22 00:32:52.579  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 6 VOD.L:92.3
+2019-04-22 00:32:52.581  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 6 BP.L:1455.3
+2019-04-22 00:32:52.587  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 6 BP.L updated
+2019-04-22 00:32:52.587  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 6 GOOG:83.48
+2019-04-22 00:32:52.591  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 6 GOOG updated
+2019-04-22 00:32:53.579  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 7 BT.L:107
+2019-04-22 00:32:53.580  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 7 VOD.L:92.5
+2019-04-22 00:32:53.584  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 7 BP.L:1449
+2019-04-22 00:32:53.646  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 7 GOOG:82.5
+2019-04-22 00:32:54.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 8 BT.L:106
+2019-04-22 00:32:54.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 8 VOD.L:93.4
+2019-04-22 00:32:54.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 8 BP.L:1448
+2019-04-22 00:32:54.586  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 8 GOOG:84.6
+2019-04-22 00:32:55.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 9 BT.L:98
+2019-04-22 00:32:55.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 9 VOD.L:94
+2019-04-22 00:32:55.585  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 9 BP.L:1450
+2019-04-22 00:32:55.590  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 9 BP.L updated
+2019-04-22 00:32:55.591  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 9 GOOG:84.9
+2019-04-22 00:32:55.599  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 9 GOOG updated
+2019-04-22 00:32:56.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 10 BT.L:97
+2019-04-22 00:32:56.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 10 BT.L updated
+2019-04-22 00:32:56.588  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 10 VOD.L:95
+2019-04-22 00:32:56.591  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 10 VOD.L updated
+2019-04-22 00:32:56.594  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 10 BP.L:1450.1
+2019-04-22 00:32:56.598  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 10 GOOG:85.6
+2019-04-22 00:32:58.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 11 BT.L:100
+2019-04-22 00:32:58.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 11 VOD.L:85
+2019-04-22 00:32:58.585  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 11 BP.L:1450.4
+2019-04-22 00:32:58.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 11 GOOG:86.67
+2019-04-22 00:32:59.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 12 BT.L:98
+2019-04-22 00:32:59.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 12 VOD.L:87
+2019-04-22 00:32:59.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 12 BP.L:1460.4
+2019-04-22 00:32:59.594  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 12 BP.L updated
+2019-04-22 00:32:59.599  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 12 GOOG:84.67
+2019-04-22 00:32:59.605  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 12 GOOG updated
+2019-04-22 00:33:00.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 13 BT.L:102
+2019-04-22 00:33:00.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 13 VOD.L:90
+2019-04-22 00:33:00.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 13 BP.L:1455.95
+2019-04-22 00:33:00.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 13 GOOG:84
+2019-04-22 00:33:01.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 14 BT.L:110.3
+2019-04-22 00:33:01.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 14 VOD.L:92.3
+2019-04-22 00:33:01.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 14 BP.L:1453
+2019-04-22 00:33:01.586  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 14 GOOG:83.5
+2019-04-22 00:33:02.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 BT.L:104.5
+2019-04-22 00:33:02.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 BT.L updated
+2019-04-22 00:33:02.588  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 VOD.L:92.4
+2019-04-22 00:33:02.597  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 VOD.L updated
+2019-04-22 00:33:02.598  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 BP.L:1452
+2019-04-22 00:33:02.607  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 BP.L updated
+2019-04-22 00:33:02.608  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 GOOG:83.49
+2019-04-22 00:33:02.617  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 15 GOOG updated
+2019-04-22 00:33:03.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 16 BT.L:105.9
+2019-04-22 00:33:03.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 16 VOD.L:92.3
+2019-04-22 00:33:03.582  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 16 BP.L:1455.3
+2019-04-22 00:33:03.585  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 16 GOOG:83.48
+2019-04-22 00:33:04.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 17 BT.L:107
+2019-04-22 00:33:04.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 17 VOD.L:92.5
+2019-04-22 00:33:04.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 17 BP.L:1449
+2019-04-22 00:33:04.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 17 GOOG:82.5
+2019-04-22 00:33:05.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 18 BT.L:106
+2019-04-22 00:33:05.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 18 VOD.L:93.4
+2019-04-22 00:33:05.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 18 BP.L:1448
+2019-04-22 00:33:05.593  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 18 BP.L updated
+2019-04-22 00:33:05.595  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 18 GOOG:84.6
+2019-04-22 00:33:05.601  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 18 GOOG updated
+2019-04-22 00:33:06.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 19 BT.L:98
+2019-04-22 00:33:06.582  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 19 VOD.L:94
+2019-04-22 00:33:06.586  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 19 BP.L:1450
+2019-04-22 00:33:06.589  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 19 GOOG:84.9
+2019-04-22 00:33:07.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 20 BT.L:97
+2019-04-22 00:33:07.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 20 BT.L updated
+2019-04-22 00:33:07.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 20 VOD.L:95
+2019-04-22 00:33:07.595  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 20 VOD.L updated
+2019-04-22 00:33:07.595  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 20 BP.L:1450.1
+2019-04-22 00:33:07.597  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 20 GOOG:85.6
+2019-04-22 00:33:09.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 21 BT.L:100
+2019-04-22 00:33:09.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 21 VOD.L:85
+2019-04-22 00:33:09.583  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 21 BP.L:1450.4
+2019-04-22 00:33:09.593  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 21 BP.L updated
+2019-04-22 00:33:09.594  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 21 GOOG:86.67
+2019-04-22 00:33:09.602  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 21 GOOG updated
+2019-04-22 00:33:10.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 22 BT.L:98
+2019-04-22 00:33:10.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 22 VOD.L:87
+2019-04-22 00:33:10.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 22 BP.L:1460.4
+2019-04-22 00:33:10.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 22 GOOG:84.67
+2019-04-22 00:33:11.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 23 BT.L:102
+2019-04-22 00:33:11.582  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 23 VOD.L:90
+2019-04-22 00:33:11.586  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 23 BP.L:1455.95
+2019-04-22 00:33:11.589  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 23 GOOG:84
+2019-04-22 00:33:12.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 24 BT.L:110.3
+2019-04-22 00:33:12.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 24 VOD.L:92.3
+2019-04-22 00:33:12.585  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 24 BP.L:1453
+2019-04-22 00:33:12.594  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 24 BP.L updated
+2019-04-22 00:33:12.595  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 24 GOOG:83.5
+2019-04-22 00:33:12.603  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 24 GOOG updated
+2019-04-22 00:33:13.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 25 BT.L:104.5
+2019-04-22 00:33:13.586  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 25 BT.L updated
+2019-04-22 00:33:13.588  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 25 VOD.L:92.4
+2019-04-22 00:33:13.595  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 25 VOD.L updated
+2019-04-22 00:33:13.596  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 25 BP.L:1452
+2019-04-22 00:33:13.598  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 25 GOOG:83.49
+2019-04-22 00:33:14.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 26 BT.L:105.9
+2019-04-22 00:33:14.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 26 VOD.L:92.3
+2019-04-22 00:33:14.594  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 26 BP.L:1455.3
+2019-04-22 00:33:14.599  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 26 GOOG:83.48
+2019-04-22 00:33:15.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 27 BT.L:107
+2019-04-22 00:33:15.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 27 VOD.L:92.5
+2019-04-22 00:33:15.582  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 27 BP.L:1449
+2019-04-22 00:33:15.588  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 27 BP.L updated
+2019-04-22 00:33:15.589  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 27 GOOG:82.5
+2019-04-22 00:33:15.599  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 27 GOOG updated
+2019-04-22 00:33:16.580  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 28 BT.L:106
+2019-04-22 00:33:16.581  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 28 VOD.L:93.4
+2019-04-22 00:33:16.584  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 28 BP.L:1448
+2019-04-22 00:33:16.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 28 GOOG:84.6
+2019-04-22 00:33:17.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 29 BT.L:98
+2019-04-22 00:33:17.579  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 29 VOD.L:94
+2019-04-22 00:33:17.583  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 29 BP.L:1450
+2019-04-22 00:33:17.587  INFO 10784 --- [pool-1-thread-1] c.blackrock.dataservice.consumer.Reader  : 29 GOOG:84.9
+2019-04-22 00:33:18.579  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 BT.L:97
+2019-04-22 00:33:18.582  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 BT.L updated
+2019-04-22 00:33:18.583  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 VOD.L:95
+2019-04-22 00:33:18.596  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 VOD.L updated
+2019-04-22 00:33:18.596  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 BP.L:1450.1
+2019-04-22 00:33:18.599  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 BP.L updated
+2019-04-22 00:33:18.599  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 GOOG:85.6
+2019-04-22 00:33:18.608  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : 30 GOOG updated
+2019-04-22 00:33:18.617  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : Average Price for all Instrument in last 10 sec
+2019-04-22 00:33:18.618  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : BP.L 1450.62
+2019-04-22 00:33:18.618  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : GOOG 84.57
+2019-04-22 00:33:18.618  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : BT.L 100.75
+2019-04-22 00:33:18.618  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : VOD.L 93.7
+2019-04-22 00:33:18.635  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : Second Highest Price for all Instruments
+2019-04-22 00:33:18.636  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : BP.L 1455.95
+2019-04-22 00:33:18.637  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : GOOG 85.6
+2019-04-22 00:33:18.637  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : VOD.L 92.4
+2019-04-22 00:33:18.637  INFO 10784 --- [pool-1-thread-2] c.blackrock.dataservice.consumer.Reader  : BT.L 97.0
